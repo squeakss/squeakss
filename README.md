@@ -49,7 +49,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - 
-- 
+- Bread_Crumbs
+- Dencoders
+- RSA Decrypt
 <!--
 **squeakss/squeakss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
